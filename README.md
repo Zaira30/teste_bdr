@@ -9,6 +9,7 @@ Dentro da Pasta BDR_Zaira, segue as questões do Teste de Conhecimentos - Analis
 4 - Gerenciador
   4.1 - Na pasta Gerenciador tem uma pasta db,contem o dump do banco de dados.
   4.2 - habilitar o rewrite_module no Apache
+  4.3 - Para acessar API Rest http://localhost/gerenciador/tarefas.json
 
 
 
